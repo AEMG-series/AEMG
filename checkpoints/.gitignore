@@ -1,0 +1,4 @@
+# Keep directory in repo; ignore large checkpoint files
+*
+!.gitignore
+!.gitkeep

@@ -1,0 +1,4 @@
+# Test / debug output directory
+*
+!.gitignore
+!.gitkeep

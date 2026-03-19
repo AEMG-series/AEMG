@@ -1,0 +1,4 @@
+# VQ training outputs: track placeholders only
+*
+!.gitignore
+!.gitkeep

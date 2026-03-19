@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+.env
+
+# Local artifacts (adjust per-directory .gitignore if you need to commit)
+*.pth
+*.pt
+*.ckpt
